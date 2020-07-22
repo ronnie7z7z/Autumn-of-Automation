@@ -1,3 +1,3 @@
 days = int(input("Enter number of days : "))
 
-stri = str(input("Enter the prices : "))
+stri = input("Enter the prices : ")
