@@ -1,3 +1,3 @@
-days = int(input("Enter number of days : "))
+days = input("Enter number of days ")
+stri = input("Enter the prices ").split(' ')
 
-stri = input("Enter the prices : ")
