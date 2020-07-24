@@ -140,7 +140,6 @@
 
 # img = cv2.imread('as2.png')
 # n=10
-
 # kernel = np.ones((n,n),np.float32)/(n*n)
 # dst = cv2.filter2D(img,-1,kernel)
 
